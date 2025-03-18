@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Anmol Kapoor 👋</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" width="100%"/>
-</p>
+</p> -->
 
 ## 🚀 About Me
 I'm an aspiring AI engineer working on exciting projects like building AI assistants and training LLMs. Passionate about Python, Machine Learning, and Cloud Technologies.
