@@ -60,7 +60,7 @@ I'm an aspiring AI engineer working on exciting projects like building AI assist
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 ---
 💡 *"Coding is like poetry; every line matters!"*
