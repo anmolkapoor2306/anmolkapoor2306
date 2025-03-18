@@ -40,7 +40,7 @@ I'm an aspiring AI engineer working on exciting projects like building AI assist
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
 ## 📌 Pinned Projects
-<a href="https://github.com/yourusername/project1">
+<a href="[https://github.com/yourusername/project1](https://github.com/anmolkapoor2306/IBM_DataScience)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark" />
 </a>
 <a href="https://github.com/yourusername/project2">
