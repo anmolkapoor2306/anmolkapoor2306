@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Anmol Kapoor 👋</h1>
+<!-- <h1 align="center">Hi, I'm Anmol Kapoor 👋</h1> -->
 <!-- <p align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" width="100%"/>
 </p> -->
